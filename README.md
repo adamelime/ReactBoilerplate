@@ -1,6 +1,6 @@
 # ReactBoilerplate
 
-This is a basic React application built on top of Express. Containing tools such as Webpack, Babel and Foundation Framework.
+This is a basic React application built on top of Express. Containing Webpack, Babel, and Foundation Framework.
 
 To start the project run:
 
