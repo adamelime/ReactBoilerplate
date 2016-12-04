@@ -9,4 +9,4 @@ To start the project run:
  webpack
  node server.js
 ```
-The app should be up and running on localhost:3000
+The app should be up and running on [localhost:3000]
