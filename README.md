@@ -5,8 +5,8 @@ This is a React basic application built on top of Express. Containing tools such
 To start the project run:
 
 ```sh
-npm install
-webpack
-node server.js
+ npm install
+ webpack
+ node server.js
 ```
 The app should be up and running on localhost:3000
